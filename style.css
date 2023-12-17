@@ -3,3 +3,10 @@
     width: 500px;
     margin: 0 auto; /* Center the map horizontally */
   }
+
+
+h1.center {
+    align-self: center;
+    
+}
+  
