@@ -22,7 +22,7 @@ const map = L.map('map', {
 });
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenStreetMap contributors'
+  attribution: 'Evil Elf Tracker Inc'
 }).addTo(map);
 
 // Create a custom icon for the marker
